@@ -1,3 +1,5 @@
+package ru.netology
+
 fun main() {
     agoToText("Саша", 60)
     agoToText("Петя", 60 * 21)
